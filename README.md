@@ -1,6 +1,6 @@
 ## 💨 숨통(Soomtong) 프로젝트 소개 💨
 
-<img width="250" alt="Intro" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/마스코트_키오스크.png">  
+<img width="250" alt="Intro" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/숨통로고.png">  
 <br>
 
 ### 💨 숨통이란?
