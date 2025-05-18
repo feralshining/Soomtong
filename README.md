@@ -3,7 +3,7 @@
 <img width="250" alt="Intro" src="https://raw.githubusercontent.com/feralshining/SaeSSack/main/assets/intro2.png">  
 <br>
 
-### 🫧 숨통이란?
+### 💨 숨통이란?
 
 > “텅 빈 기계 안에, 작지만 단단한 숨 하나.”
 > 
