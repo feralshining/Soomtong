@@ -1,4 +1,4 @@
-## 🧘‍♂️ 숨통(Soomtong) 프로젝트 소개
+## 💨 숨통(Soomtong) 프로젝트 소개 💨
 
 <img width="250" alt="Intro" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/마스코트_키오스크.png">  
 <br>
