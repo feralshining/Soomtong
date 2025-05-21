@@ -96,7 +96,7 @@
 <br>
 
 ### ➡️ 서비스 흐름도
-<img width="250" alt="Intro" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/1차 플로우차트.png">  
+<img width="2000" alt="Intro" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/1차 플로우차트.png">  
 <br>
 
 ### 🖼 실제 구현 예시
