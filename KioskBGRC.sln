@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KioskBGRC", "KioskBGRC\KioskBGRC.csproj", "{BFAF862C-C37B-4F56-93D4-C9FF7F38B070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFAF862C-C37B-4F56-93D4-C9FF7F38B070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFAF862C-C37B-4F56-93D4-C9FF7F38B070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFAF862C-C37B-4F56-93D4-C9FF7F38B070}.Debug|x64.ActiveCfg = Debug|x64
+		{BFAF862C-C37B-4F56-93D4-C9FF7F38B070}.Debug|x64.Build.0 = Debug|x64
+		{BFAF862C-C37B-4F56-93D4-C9FF7F38B070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFAF862C-C37B-4F56-93D4-C9FF7F38B070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFAF862C-C37B-4F56-93D4-C9FF7F38B070}.Release|x64.ActiveCfg = Release|x64
+		{BFAF862C-C37B-4F56-93D4-C9FF7F38B070}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BC6883F-967D-49BC-9BDB-73D4D20A6E52}
+	EndGlobalSection
+EndGlobal
