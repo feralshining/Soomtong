@@ -100,7 +100,7 @@
 <br>
 
 ### 🖼 실제 구현 예시
-
+<img width="250" alt="Intro" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/메인화면1.png">  
 <br>
 
 ### 🌟 기대 효과
