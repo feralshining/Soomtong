@@ -96,14 +96,15 @@
 <br>
 
 ### ➡️ 서비스 흐름도
-<img width="2000" alt="Intro" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/플로우차트.png">  
+<img width="2000" alt="Intro" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/플로우차트.png"> 
 <br>
 
 ### 🖼 실제 구현 예시
 <img width="250" alt="Intro" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/메인화면1.png">  
-<img width="250" alt="Intro" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/설정창.png">  
+<br>
 <img width="250" alt="Intro" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/뉴스 내용.png">  
 <br>
+<img width="250" alt="Intro" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/설정창.png">  
 
 ### 🌟 기대 효과
 
