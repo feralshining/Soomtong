@@ -118,8 +118,7 @@
 <table>
   <tr>
     <td>
-<img width="250" alt="SettingsPage" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/설정  
-  창.png">
+<img width="250" alt="SettingsPage" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/설정창.png">
   </td>
  </tr>
 </table>
