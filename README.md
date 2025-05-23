@@ -100,11 +100,30 @@
 <br>
 
 ### 🖼 실제 구현 예시
-<img width="250" alt="Intro" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/메인화면1.png">  
-<br>
-<img width="250" alt="Intro" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/뉴스 내용.png">  
-<br>
-<img width="250" alt="Intro" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/설정창.png">  
+---
+**메인 화면 페이지 & 뉴스 페이지** 
+<table>
+  <tr>
+    <td>
+<img width="250" alt="MainPage" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/메인화면1.png">
+    </td>
+    <td>
+<img width="250" alt="NewsPage" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/뉴스 내용.png">
+    </td>
+  </tr>
+</table>
+
+---
+**test**
+<table>
+  <tr>
+    <td>
+<img width="250" alt="SettingsPage" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/설정  
+  창.png">
+  </td>
+ </tr>
+</table>
+
 
 ### 🌟 기대 효과
 
