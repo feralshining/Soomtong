@@ -105,20 +105,20 @@
 <table>
   <tr>
     <td>
-<img width="250" alt="MainPage" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/메인화면1.png">
+<img width="400" alt="MainPage" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/메인화면1.png">
     </td>
     <td>
-<img width="250" alt="NewsPage" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/뉴스 내용.png">
+<img width="400" alt="NewsPage" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/뉴스 내용.png">
     </td>
   </tr>
 </table>
 
 ---
-**test**
+**설정 창 및 기타**
 <table>
   <tr>
     <td>
-<img width="250" alt="SettingsPage" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/설정창.png">
+<img width="400" alt="SettingsPage" src="https://raw.githubusercontent.com/feralshining/Soomtong/main/assets/설정창.png">
   </td>
  </tr>
 </table>
