@@ -55,7 +55,7 @@
 
 ### 🤝 협업 및 개발 도구
 
-- 회의 및 문서: Notion, Discord
+- 회의 및 문서: Notion <https://www.notion.so/2025-I-Brand-show-1ee92b37f09a805997b5f06faf4feec1> , Discord
 - 버전 관리: GitHub
 - 개발 환경: Visual Studio 2022
 
